@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasirjaff
-- 👀 I’m interested in Web Design and development and ui/ux
+- 👀 I’m interested in Web Design and development and UI/UX
 - 🌱 I’m currently learning BAC (AI and Data Science)
 - 💞️ I’m looking to collaborate on web designing projects
 - 📫 How to reach me  jafferyasir9@gmail.com
